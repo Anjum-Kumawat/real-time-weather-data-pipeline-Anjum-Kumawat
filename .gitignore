@@ -1,0 +1,22 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+*.egg-info/
+dist/
+
+# Output and temporary data
+output/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
