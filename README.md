@@ -86,11 +86,11 @@ The full system involves four components running concurrently. Open separate ter
     - Duplicate Element IDs in Streamlit:
 
         Ensure each st.plotly_chart has a unique key argument to prevent rendering conflicts.
-![Producer Terminal Output](images/Screenshot 1.png)
-![Producer Terminal Output](images/Screenshot 2.png)
-![Producer Terminal Output](images/Screenshot 3.png)
-![Producer Terminal Output](images/Screenshot 4.png)
-![Producer Terminal Output](images/Screenshot 5.png)
-![Producer Terminal Output](images/Screenshot 6.png)
-![Producer Terminal Output](images/Screenshot 7.png)
-![Producer Terminal Output](images/Screenshot 8.png)
+![Producer Terminal Output](images/Screenshot_1.png)
+![Producer Terminal Output](images/Screenshot_2.png)
+![Producer Terminal Output](images/Screenshot_3.png)
+![Producer Terminal Output](images/Screenshot_4.png)
+![Producer Terminal Output](images/Screenshot_5.png)
+![Producer Terminal Output](images/Screenshot_6.png)
+![Producer Terminal Output](images/Screenshot_7.png)
+![Producer Terminal Output](images/Screenshot_8.png)
